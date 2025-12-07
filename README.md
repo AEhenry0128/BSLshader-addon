@@ -38,3 +38,12 @@ You can adjust the outline color / glow. <br/>
 Outline enable needed (Extras page).
 
 <img src="preview/CTO_glow.png" width="400px"> <img src="preview/CTO_normal.png" width="400px"> 
+
+
+
+
+
+##About
+Just to be clear, I didn't make the shader.so all these are all non-professional modifications.
+so if you run into any bugs that's normal, I might not even be able to fix them Sorry.
+Therefore, there will not be any ongoing updates.
