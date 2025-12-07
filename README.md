@@ -43,7 +43,7 @@ Outline enable needed (Extras page).
 
 
 
-##About
+## About
 Just to be clear, I didn't make the shader.so all these are all non-professional modifications.
 so if you run into any bugs that's normal, I might not even be able to fix them Sorry.
 Therefore, there will not be any ongoing updates.
